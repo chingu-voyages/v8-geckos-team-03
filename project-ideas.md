@@ -11,3 +11,9 @@ Another idea has to do with visualizing election results. There’s a program ca
 ## Free Website for a Worthy Cause
 
 Another idea would be to just create a site for a worthy nonprofit organization. As you know, I'm a fan of the United States Elections Project. Their site is pretty simple, and it might be nice to give them something that more befits their important work.
+
+
+
+## (Vineet) Build Frontend using REACT.JS 
+If our focus is to implement/learn react.js then We can build UI for the eventbrite using platform API's  
+https://www.eventbrite.com/platform/docs/introduction
